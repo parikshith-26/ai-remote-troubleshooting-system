@@ -1,0 +1,4 @@
+Detected Language: kn
+
+Translated Transcript:
+ The application crashed when I opened it. I reinstalled the software and the same issue was raised.

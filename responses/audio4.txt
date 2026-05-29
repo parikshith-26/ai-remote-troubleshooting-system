@@ -1,0 +1,31 @@
+Detected Language: kn
+
+Translated Transcript:
+ the IP5 connection disconnects in time yes the both are
+
+AI Troubleshooting Response:
+
+The customer speech appears to be in English, but it seems incomplete and unclear. However, I'll try to understand and translate the issue into proper English.
+
+Translated Issue: "The IP5 connection disconnects after some time, yes, and this happens to both."
+
+Now, here's the requested information:
+
+1. **Problem Summary**: The customer is experiencing issues with their IP5 connection, which keeps disconnecting after some time. This problem is occurring on both devices or connections.
+
+2. **Possible Causes**: 
+    - Poor internet connectivity or weak signal strength
+    - Incorrect IP5 connection settings or configuration
+    - Interference from other devices or networks
+    - Hardware or software issues with the device
+    - Server-side problems or maintenance
+
+3. **Step-by-step Troubleshooting**:
+    - **Step 1**: Check the internet connection and signal strength to ensure it's stable.
+    - **Step 2**: Verify the IP5 connection settings and configuration to ensure they are correct.
+    - **Step 3**: Restart the device and router to refresh the connection.
+    - **Step 4**: Move the device to a different location to reduce interference from other devices or networks.
+    - **Step 5**: Check for any software updates or patches for the device and install them if available.
+    - **Step 6**: Contact the internet service provider to check for any server-side issues or maintenance.
+
+4. **Final Recommendation**: If the issue persists after trying the above troubleshooting steps, it's recommended to contact the device manufacturer's support team or the internet service provider's technical support for further assistance. They can help diagnose the issue and provide a more specific solution or repair/replace the device if necessary.

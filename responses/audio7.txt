@@ -1,0 +1,32 @@
+Detected Language: si
+
+Translated Transcript:
+ The computer is very slow. It takes a lot of time to open the programs. Or the system is free.
+
+AI Troubleshooting Response:
+
+**Translation and Understanding:**
+The customer is complaining that their computer is very slow and takes a long time to open programs. They also mention that the system is sometimes unresponsive or "free" (likely meaning frozen).
+
+**1. Problem Summary:**
+The customer's computer is experiencing performance issues, including slow program loading times and occasional system freezes.
+
+**2. Possible Causes:**
+- Insufficient RAM or outdated hardware
+- Malware or virus infections
+- Overloaded disk space or fragmented files
+- Outdated operating system or software
+- Resource-intensive programs running in the background
+- Corrupted system files or registry errors
+
+**3. Step-by-step Troubleshooting:**
+- **Step 1:** Check the system's RAM and hardware specifications to ensure they meet the minimum requirements for the operating system and installed software.
+- **Step 2:** Run a virus scan using an anti-virus program to detect and remove any malware or viruses.
+- **Step 3:** Check the disk space and free up at least 10% of the total disk capacity by deleting unnecessary files or programs.
+- **Step 4:** Update the operating system and installed software to the latest versions.
+- **Step 5:** Close any resource-intensive programs running in the background and disable any unnecessary startup programs.
+- **Step 6:** Run a disk cleanup and defragmentation tool to optimize the file system.
+- **Step 7:** Check for corrupted system files or registry errors and run a system file checker or registry cleaner if necessary.
+
+**4. Final Recommendation:**
+Based on the customer's complaint, it is recommended to perform a thorough system check and maintenance routine, including virus scans, disk cleanups, and software updates. If the issue persists, consider upgrading the hardware or seeking professional assistance from a computer technician to diagnose and resolve the problem. Additionally, provide the customer with guidance on how to optimize their system and prevent similar issues in the future.

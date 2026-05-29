@@ -1,0 +1,37 @@
+Detected Language: kn
+
+Translated Transcript:
+ Hello Sir, my internet is not working properly, the router is running red light, no website is open.
+
+AI Troubleshooting Response:
+
+The customer speech is in a mix of English and possibly other languages, but it's mostly understandable. Here's the translation into proper English:
+
+"Hello Sir, my internet is not working properly. The router is showing a red light, and no websites are opening."
+
+Now, here are the requested sections:
+
+**1. Problem Summary**
+The customer's internet connection is not working, and they are experiencing issues with their router, which is displaying a red light. As a result, they are unable to access any websites.
+
+**2. Possible Causes**
+Some possible causes of this issue include:
+* Router malfunction or configuration problems
+* Internet Service Provider (ISP) outages or connectivity issues
+* Network congestion or overload
+* Physical obstructions or interference with the router's signal
+* Firmware or software issues with the router
+* Incorrect DNS settings or IP address configuration
+
+**3. Step-by-step Troubleshooting**
+To troubleshoot this issue, follow these steps:
+* Step 1: Restart the router by unplugging it, waiting for 30 seconds, and plugging it back in.
+* Step 2: Check the physical connections of the router, modem, and other devices to ensure they are secure and not damaged.
+* Step 3: Verify the router's lights and ensure that the red light is not an indication of a specific error (check the router's manual or manufacturer's website for more information).
+* Step 4: Check the ISP's website or social media for any reported outages or maintenance in the area.
+* Step 5: Try accessing the internet using a different device or browser to rule out any device-specific issues.
+* Step 6: Check the router's firmware and software for updates, and install any available updates.
+* Step 7: Reset the router to its factory settings (if necessary, and after backing up any custom settings).
+
+**4. Final Recommendation**
+If none of the troubleshooting steps resolve the issue, it's recommended that the customer contact their ISP's technical support for further assistance. The ISP may need to send a technician to investigate and resolve the issue, or provide additional guidance on configuring the router or network settings. Additionally, if the router is old or malfunctioning, it may be necessary to replace it with a new one.

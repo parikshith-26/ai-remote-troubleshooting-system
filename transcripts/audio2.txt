@@ -1,0 +1,4 @@
+Detected Language: kn
+
+Translated Transcript:
+ I have logged in to the account with the correct password. Every time, the invalid credentials are all available. I have also opened the dashboard.

@@ -1,0 +1,4 @@
+Detected Language: kn
+
+Translated Transcript:
+ Hello Sir, my laptop is very hot. I used it for a while and the fan was very strong. And the system automatically shut down.

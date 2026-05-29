@@ -1,0 +1,35 @@
+Detected Language: kn
+
+Translated Transcript:
+ LOW Sir ,   kav reference
+
+AI Troubleshooting Response:
+
+The customer speech appears to be a mix of English and another language, possibly Hindi or a dialect. 
+
+Translation: 
+The customer is saying "Low sir, kya reference" or "Low sir, what reference". However, considering the context of "LOW" and "reference", it seems more likely that the customer is saying "LOV" or "LOW" as in "LOV" (Level of service) or "LOW" as in a low reading, and "kav reference" as in "what is the reference" or "kya reference" in Hindi, which translates to "what reference" in English, but "kav" seems to be a mix, a more accurate translation would be "kya" which is Hindi for "what". 
+
+So, a more accurate translation would be: "Low reading sir, what reference" or "The level is low, what is the reference".
+
+Here's the analysis:
+
+1. **Problem Summary**: The customer is reporting a low reading and is inquiring about the reference or the standard value for comparison.
+
+2. **Possible Causes**: 
+   - The device or system may be malfunctioning, resulting in incorrect readings.
+   - The customer may not be using the device correctly.
+   - The reference value may not be set or configured properly.
+   - The device may be calibrated incorrectly.
+
+3. **Step-by-step Troubleshooting**:
+   - Step 1: Verify the device or system is functioning correctly by checking for any error messages or warning signs.
+   - Step 2: Ensure the customer is using the device as per the manufacturer's instructions.
+   - Step 3: Check if the reference value is set or configured correctly.
+   - Step 4: If the issue persists, try recalibrating the device or system.
+   - Step 5: If none of the above steps resolve the issue, consider contacting the manufacturer's support team for further assistance.
+
+4. **Final Recommendation**: 
+   - The customer should be advised to check the device or system for any errors and ensure it is being used correctly.
+   - If the issue is related to the reference value, the customer should be provided with the correct reference value or guided on how to configure it.
+   - If the issue persists, the customer should be offered further technical support or assistance from the manufacturer's team.

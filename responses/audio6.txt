@@ -1,0 +1,32 @@
+Detected Language: kn
+
+Translated Transcript:
+ The application crashed when I opened it. I reinstalled the software and the same issue was raised.
+
+AI Troubleshooting Response:
+
+The customer speech provided is in English, so no translation is required.
+
+Here's the analysis of the issue:
+
+**Problem Summary**
+The customer is experiencing an issue with an application that crashes when opened. Despite reinstalling the software, the problem persists.
+
+**Possible Causes**
+1. Corrupted installation files or incomplete installation
+2. Incompatible software or hardware configuration
+3. Conflict with other programs or background processes
+4. Outdated operating system or drivers
+5. Bug or glitch in the application itself
+
+**Step-by-step Troubleshooting**
+1. **Check system requirements**: Verify that the computer meets the minimum system requirements for the application.
+2. **Update operating system and drivers**: Ensure the operating system and all drivers are up-to-date.
+3. **Disable background programs**: Close all other programs and background processes to isolate the issue.
+4. **Reinstall with administrative privileges**: Reinstall the application with administrative privileges to ensure proper installation.
+5. **Check for application updates**: Look for any updates or patches for the application that may resolve the issue.
+6. **Run a virus scan**: Perform a full virus scan to detect and remove any malware that may be causing the issue.
+7. **Try a different user account**: Log in with a different user account to determine if the issue is account-specific.
+
+**Final Recommendation**
+If none of the troubleshooting steps resolve the issue, it is recommended to contact the application's support team for further assistance. They may be able to provide additional guidance, patches, or updates to resolve the problem. Additionally, if the issue is specific to a particular computer or environment, it may be helpful to try installing the application on a different computer to isolate the issue.
